@@ -1,5 +1,8 @@
 {
   "package": {
+    "engines": {
+      "node": ">=16.x"
+    },
     "dependencies": {
       "@testing-library/jest-dom": "^5.14",
       "@testing-library/react": "^13.0",
