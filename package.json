@@ -9,6 +9,7 @@
   "engines": {
     "node": ">=16.x"
   },
+  "main": "template.json",
   "keywords": [
     "react",
     "create-react-app",
