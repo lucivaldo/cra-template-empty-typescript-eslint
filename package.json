@@ -1,6 +1,14 @@
 {
   "name": "cra-template-empty-typescript-eslint",
   "version": "0.1.0",
+  "description": "Create an empty React project with Typescript and ESLint",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucivaldo/cra-template-empty-typescript-eslint.git"
+  },
+  "engines": {
+    "node": ">=16.x"
+  },
   "keywords": [
     "react",
     "create-react-app",
@@ -9,7 +17,6 @@
     "empty",
     "eslint"
   ],
-  "description": "Create an empty React project with Typescript and ESLint",
   "license": "MIT",
   "files": [
     "template",
